@@ -1,0 +1,1 @@
+Jogo da Memória basico, criado apartir do JavaScripte e CSS para ajustes. As imagens foram retiradas da internet em uma busca simples, por isso não devem ser utilizadas para fins comerciais. Apenas para aprendizado do código. 
